@@ -1,7 +1,9 @@
 ---
-title: "Features"
+layout: default
+title: Features
+nav_order: 2
 description: "Discover the powerful features of SKIES Mobile"
-weight: 100
+permalink: /features/
 ---
 
 # Features
@@ -24,14 +26,13 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 - **Activity Feed**: Discover and join team activities and events
 - **Event Subscription**: Register for activities with guest count and custom questions
-- **Calendar Integration**: Export events to your device calendar with ICS support
 - **Participant Lists**: View who's attending and their dietary restrictions
 - **Smart Scheduling**: Calendar-aware display with relative dates (Today, Tomorrow, etc.)
 - **Availability Tracking**: Real-time participant count and capacity management
 
 ### AI-Powered Summaries (iOS 26+)
 
-- **On-Device Processing**: Generate quick summaries using Apple Intelligence
+- **On-Device Processing**: Generate quick summaries using Apple Intelligence using Foundation Models
 - **Auto-Summaries**: Automatically summarize new posts and activities
 - **Privacy-Focused**: All AI processing happens on your device
 - **Context Menu Integration**: Long-press any post or activity to generate a summary
@@ -41,7 +42,6 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Rich Profiles**: View detailed user information including bio, position, and education
 - **Profile Photos**: Cached user avatars with smart refresh
 - **Birthday Celebrations**: Never miss a team member's birthday
-- **User Search**: Find colleagues quickly and efficiently
 
 ### Customization & Appearance
 
@@ -66,7 +66,6 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Microsoft Authentication**: Secure MSAL integration
 - **Jailbreak Detection**: Enhanced security checks (35+ detection methods)
 - **Token Management**: Automatic refresh with silent authentication
-- **Device Compliance**: MDM enrollment detection
 
 ### Performance & Quality
 
@@ -92,21 +91,12 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 ## Localization
 
-- English
-- Hungarian
-- Swedish
+- English (main)
+- Hungarian (in-work)
+- Swedish (in-work)
 
 Additional language support is planned for future releases.
 
 ## Coming Soon
 
-Stay tuned for upcoming features:
-
-- Safari extension for deep linking
-- Widget and Live Activity support
-- Rich push notifications with images and actions
-- In-app search (offline + online)
-- Mark items as read/unread
-- Improved offline caching for activity details
-
-For a complete list of planned features, visit the [Issues](/issues/) page.
+For a list of planned features, visit the [Issues](/issues/) page.

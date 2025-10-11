@@ -1,6 +1,9 @@
 ---
-title: "SKIES Mobile"
+layout: default
+title: Home
+nav_order: 1
 description: "A modern iOS application for team connectivity and content sharing"
+permalink: /
 ---
 
 # SKIES Mobile

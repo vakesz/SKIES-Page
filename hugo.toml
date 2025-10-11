@@ -1,0 +1,73 @@
+baseURL = 'https://skies.vakesz.com/'
+languageCode = 'en-us'
+title = 'SKIES Mobile'
+copyright = "© 2024 SKIES Mobile"
+enableGitInfo = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/colinwilson/lotusdocs"
+    disable = false
+
+[params]
+  # Global
+  description = "A modern iOS application for team connectivity and content sharing"
+  author = "SKIES Mobile Team"
+
+  # Theme
+  showLightDarkModeMenu = true
+  defaultTheme = "system"
+
+  # Logo
+  logo = "/images/logo.svg"
+  logoAlt = "SKIES Mobile Logo"
+
+  # Footer
+  footerHtml = 'Made with <a href="https://gohugo.io/">Hugo</a> and <a href="https://github.com/colinwilson/lotusdocs">Lotus Docs</a>'
+
+  # Contact
+  email = "hello@vakesz.com"
+
+  # GitHub
+  github = "https://github.com/vakesz/Skies-iOS"
+
+  # Social
+  [params.social]
+    email = "hello@vakesz.com"
+    github = "vakesz/Skies-iOS"
+
+[menu]
+  [[menu.primary]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menu.primary]]
+    name = "Features"
+    url = "/features/"
+    weight = 20
+
+  [[menu.primary]]
+    name = "Issues"
+    url = "/issues/"
+    weight = 30
+
+  [[menu.primary]]
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 40
+
+  [[menu.primary]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+
+[outputs]
+  home = ["HTML", "RSS"]

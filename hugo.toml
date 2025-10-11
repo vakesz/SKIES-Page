@@ -14,27 +14,26 @@ enableGitInfo = true
   description = "A modern iOS application for team connectivity and content sharing"
   author = "SKIES Mobile Team"
 
-  # Theme
-  showLightDarkModeMenu = true
-  defaultTheme = "system"
-
-  # Logo
-  logo = "/images/logo.svg"
-  logoAlt = "SKIES Mobile Logo"
+  # Lotus Docs Theme
+  [params.docs]
+    title = "SKIES Mobile"
+    description = "A modern iOS application for team connectivity and content sharing"
+    pathName = "docs"
+    themeColor = "#5E2563"
 
   # Footer
-  footerHtml = 'Made with <a href="https://gohugo.io/">Hugo</a> and <a href="https://github.com/colinwilson/lotusdocs">Lotus Docs</a>'
-
-  # Contact
-  email = "hello@vakesz.com"
-
-  # GitHub
-  github = "https://github.com/vakesz/Skies-iOS"
+  [params.footer]
+    copyright = "© 2024 SKIES Mobile"
 
   # Social
   [params.social]
-    email = "hello@vakesz.com"
     github = "vakesz/Skies-iOS"
+    email = "hello@vakesz.com"
+
+  # UI
+  [params.ui]
+    showLightDarkModeMenu = true
+    defaultDarkMode = false
 
 [menu]
   [[menu.primary]]

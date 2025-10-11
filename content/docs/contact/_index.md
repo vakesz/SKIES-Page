@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 description: "Get in touch with the SKIES Mobile team"
-weight: 5
+weight: 400
 ---
 
 # Contact Us

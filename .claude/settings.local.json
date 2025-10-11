@@ -5,7 +5,8 @@
       "Bash(hugo:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "WebFetch(domain:lotusdocs.dev)"
     ],
     "deny": [],
     "ask": []

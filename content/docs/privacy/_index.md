@@ -1,7 +1,7 @@
 ---
-title: "Privacy Policy"
+title: "Privacy"
 description: "How SKIES Mobile protects your privacy"
-weight: 4
+weight: 300
 ---
 
 # Privacy Policy

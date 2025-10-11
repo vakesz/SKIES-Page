@@ -1,7 +1,7 @@
 ---
 title: "Features"
 description: "Discover the powerful features of SKIES Mobile"
-weight: 2
+weight: 100
 ---
 
 # Features

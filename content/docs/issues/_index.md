@@ -1,7 +1,7 @@
 ---
-title: "Known Issues & Roadmap"
+title: "Issues & Roadmap"
 description: "Current issues and planned features for SKIES Mobile"
-weight: 3
+weight: 200
 ---
 
 # Known Issues & Planned Features

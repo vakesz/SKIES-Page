@@ -118,6 +118,44 @@ This page tracks the current known issues and our roadmap for future development
 - Requires server-side push payload support
 - Attachment handling in notifications
 
+### Personal History & Analytics - iCloud synced
+
+#### Personal timeline of attended events
+
+- Historical view of all past activities
+- Chronological timeline with event details
+- Filter by date range, activity type
+
+#### Statistics and insights
+
+- Activities per month tracking
+- Favorite activity types analysis
+- Participation trends over time
+- Achievement badges (e.g., "Attended 10 events")
+
+#### Personal content history
+
+- Comments left on events
+- Posts made by user
+- Engagement history
+
+### Smart Features & AI Integration
+
+#### Smart Activity Recommendations
+
+- ML-based suggestions based on attendance history
+- Personalized recommendations
+- Pattern recognition for preferred times/types
+
+### Voice & Automation
+
+#### Siri Shortcuts Integration
+
+- "Show my upcoming activities"
+- "Sign up for next yoga class"
+- Voice-based navigation
+- Custom shortcuts for common actions
+
 ## How to Report Issues
 
 If you encounter any issues or have feature requests:

@@ -14,7 +14,7 @@ SKIES Mobile is built with **privacy by design**. We believe in transparency and
 
 SKIES Mobile is a client-side iOS application that acts as a secure bridge between you and your organization's data. We collect only essential data for core functionality and never monetize your information.
 
-## What the App Collect
+## What the App Collects
 
 ### Authentication Data
 
@@ -70,7 +70,6 @@ We don't operate any backend servers that store your content or personal informa
 - **Jailbreak Detection**: Enhanced security checks (35+ detection methods)
 - **Certificate Pinning**: Protection against man-in-the-middle attacks
 - **Token Security**: Automatic token refresh and expiration
-- **Device Compliance**: MDM enrollment detection
 
 ## Data Retention
 

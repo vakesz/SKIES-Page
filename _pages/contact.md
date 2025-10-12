@@ -8,7 +8,7 @@ permalink: /contact/
 
 # Contact
 
-We'd love to hear from you! Whether you have questions, feedback, or need support, here are the ways to reach me.
+I'd love to hear from you! Whether you have questions, feedback, or need support, here are the ways to reach me.
 
 - GitHub: [@vakesz](https://github.com/vakesz)
 - Twitter: [@vakeszqe](https://twitter.com/vakeszqe)
@@ -23,7 +23,7 @@ We'd love to hear from you! Whether you have questions, feedback, or need suppor
 - App version (found in Settings → About)
 - Steps to reproduce the issue
 - Screenshots if applicable
-- Relevant diagnostic logs (Settings → Support → Application Logs)
+- Relevant diagnostic logs (Settings → About → Application Logs)
 
 ### For Feature Requests
 
@@ -40,17 +40,17 @@ We'd love to hear from you! Whether you have questions, feedback, or need suppor
 
 ## Feedback
 
-We value your feedback! Tell us:
+I value your feedback! Tell me:
 
 - What features you love
 - What could be improved
 - What new features you'd like to see
 - Your experience using the app
 
-Your input helps us prioritize development and improve SKIES Mobile for everyone.
+Your input helps me prioritize development and improve SKIES Mobile for everyone.
 
 ## Thank You
 
-Thank you for using SKIES Mobile and for taking the time to reach out. We appreciate your support and feedback!
+Thank you for using SKIES Mobile and for taking the time to reach out. I appreciate your support and feedback!
 
 ---

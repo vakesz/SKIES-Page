@@ -7,10 +7,17 @@ url: "https://skies.vakesz.com"
 # Build settings
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
+favicon_ico: "/assets/images/favicon.ico"
+
+# Sass/SCSS settings - suppress deprecation warnings from remote theme
+sass:
+  quiet_deps: true
+  verbose: false
 
 # Include the _pages directory
 include:
   - _pages
+  - assets
 
 # Plugins
 plugins:

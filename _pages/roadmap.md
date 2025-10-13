@@ -35,54 +35,73 @@ permalink: /roadmap/
 - Define and implement cache TTL policies
 - Current cache limit: 500 MB total
 
-## Unplanned Features
+---
 
-### UI / UX Improvements
+## Unplanned/Not yet planned Features
 
-#### Improve image viewer
+### Onboarding experience
+
+- First-time user setup flow
+- App introduction and feature highlights
+- Guided setup process
+- Custom app URL support via onboarding
+- Custom client ID configuration
+- Custom tenant ID support
+- Allow users to connect to different instances
+
+### Improve image viewer
 
 - Add zoom functionality
 - Implement sharing from image viewer
 
-#### Calendar export improvements
+### Calendar export improvements
 
 - Fix flaky iCal/ICS export behavior
 - Revisit EventKit implementation
 - Test edge cases (recurrence, timezone handling)
 
-### Integration & System Features
-
-#### Safari extension
+### Safari extension
 
 - Suggest opening SKIES Mobile for matching URLs
 - Deep link support from Safari
 - Small extension prototype needed
 
-#### Widget & Live Activity support
+### Widget & Live Activity support (needs proper ideas)
 
 - Decide on widget content (upcoming activities, latest posts)
 - Implement read-only widget first
 - Explore Live Activity for ongoing events
 
-#### Mark items as read/unread
+### Mark items as read/unread (needs iCloud sync first)
 
 - iCloud sync for cross-device state
 
-### Backend-Dependent / Larger Features
-
-#### Add / Edit posts and activities
+### Add / Edit posts and activities
 
 - Requires API write endpoints
 - Permission checks and validation needed
 - Content creation and editing UI
 
-#### Waitlist support for activities
+### Waitlist support for activities
 
 - Backend-dependent feature
 - Queue management for full activities
 - Notification system for waitlist status
 
-### Personal History & Analytics - iCloud synced
+### Smart Activity Recommendations
+
+- ML-based suggestions based on attendance history
+- Personalized recommendations
+- Pattern recognition for preferred times/types
+
+### Siri Shortcuts Integration
+
+- "Show my upcoming activities"
+- "Sign up for next yoga class"
+- Voice-based navigation
+- Custom shortcuts for common actions
+
+### Personal History & Analytics (needs iCloud sync first)
 
 #### Personal timeline of attended events
 
@@ -102,20 +121,3 @@ permalink: /roadmap/
 - Comments left on events
 - Posts made by user
 - Engagement history
-
-### Smart Features & AI Integration
-
-#### Smart Activity Recommendations
-
-- ML-based suggestions based on attendance history
-- Personalized recommendations
-- Pattern recognition for preferred times/types
-
-### Voice & Automation
-
-#### Siri Shortcuts Integration
-
-- "Show my upcoming activities"
-- "Sign up for next yoga class"
-- Voice-based navigation
-- Custom shortcuts for common actions

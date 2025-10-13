@@ -14,12 +14,8 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 ### Posts & Content Sharing
 
-- **News Feed**: Stay updated with the latest posts from your organization
+- **News Feed**: Stay updated with the latest posts, news and announcements from your organization
 - **Rich Content**: Support for text, images, GIFs, and attachments
-- **Markdown Rendering**: Native SwiftUI markdown rendering for formatted content
-- **Customizable Display**: Control post title formatting (original, uppercase, sentence case)
-- **Adjustable Preview**: Configure description preview length (1-10 lines)
-- **Comments**: Engage in discussions with threaded comments
 - **Bookmarks**: Save posts for later reading with iCloud sync
 
 ### Activities & Events
@@ -41,14 +37,13 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 - **Rich Profiles**: View detailed user information including bio, position, and education
 - **Profile Photos**: Cached user avatars with smart refresh
-- **Birthday Celebrations**: Never miss a team member's birthday
+- **Birthday Celebrations**: Never miss a colleague's birthday
 
 ### Customization & Appearance
 
 - **Theme Selection**: Light, dark, or system-based theme
-- **Custom Colors**: Choose your primary color or select from presets (red, orange, green, blue)
-- **Dynamic Type**: Full support for accessibility text sizing
-- **UI Scaling**: Adjust interface scale with discrete presets (S/M/L/XL)
+- **Custom Colors**: Choose your primary color or select from presets (red, orange, green, blue, custom)
+- **UI Scaling**: Adjust interface scale with discrete presets (S/M/L/XL/Custom)
 - **High Contrast Mode**: Enhanced visibility for accessibility
 - **Color Blind Mode**: Improved color palette for color vision deficiency
 - **Reduce Transparency**: Option for users who prefer opaque interfaces
@@ -67,26 +62,18 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Jailbreak Detection**: Enhanced security checks (35+ detection methods)
 - **Token Management**: Automatic refresh with silent authentication
 
-### Performance & Quality
-
-- **Swift 6 Concurrency**: Modern async/await patterns throughout
-- **SwiftUI Native**: Pure SwiftUI implementation without UIKit dependencies
-- **Image Optimization**: Smart image downsampling and caching
-- **Memory Management**: Efficient resource usage with automatic cleanup
-- **Circuit Breaker**: Network resilience with automatic retry logic
-
 ### Developer Features
 
 - **Demo Mode**: Offline demo mode with sample data for testing
 - **Logging System**: Comprehensive diagnostic logging
-- **Code Quality**: SwiftFormat and SwiftLint integration
 - **Tuist Project Management**: Modern project generation and dependency management
 
 ## Platform Support
 
 - **iPhone**: iOS 18.0+ with full feature support
 - **iPad**: Universal app with multitasking and Split View
-- **Orientation**: Portrait and landscape support
+- **macOS**: Native support via Mac Catalyst
+- **Orientation**: Portrait and landscape support on iPad.
 - **Device Families**: Optimized for all screen sizes
 
 ## Localization

@@ -21,6 +21,11 @@ permalink: /roadmap/
 - Requires server-side push payload support
 - Attachment handling in notifications
 
+### Improve image viewer
+
+- Add zoom functionality
+- Implement sharing from image viewer
+
 ## Upcoming Release 0.5
 
 ### In-app search functionality
@@ -48,11 +53,6 @@ permalink: /roadmap/
 - Custom client ID configuration
 - Custom tenant ID support
 - Allow users to connect to different instances
-
-### Improve image viewer
-
-- Add zoom functionality
-- Implement sharing from image viewer
 
 ### Calendar export improvements
 

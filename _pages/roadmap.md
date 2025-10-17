@@ -8,13 +8,13 @@ permalink: /roadmap/
 
 ## Upcoming Release 0.4
 
-### iCloud sync (Currently in development)
+### iCloud sync
 
 - Sync user state (read/unread markers)
 - Sync preferences and settings
 - CloudKit integration for seamless device sync
 
-### Rich notifications (Currently in development)
+### Rich notifications
 
 - Push notifications with images
 - Action buttons in notifications
@@ -25,6 +25,10 @@ permalink: /roadmap/
 
 - Add zoom functionality
 - Implement sharing from image viewer
+
+### Mark items as read/unread (needs iCloud sync first)
+
+- iCloud sync for cross-device state
 
 ## Upcoming Release 0.5
 
@@ -71,10 +75,6 @@ permalink: /roadmap/
 - Decide on widget content (upcoming activities, latest posts)
 - Implement read-only widget first
 - Explore Live Activity for ongoing events
-
-### Mark items as read/unread (needs iCloud sync first)
-
-- iCloud sync for cross-device state
 
 ### Add / Edit posts and activities
 

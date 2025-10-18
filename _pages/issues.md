@@ -19,16 +19,6 @@ permalink: /issues/
 - API returns items in non-chronological order with creation timestamps
 - Needs to be investigated whether this can be queryed otherwise or sorted client-side
 
-### Comments may not load correctly for activities
-
-- Currently using posts endpoint instead of activities endpoint
-
-### Events sometimes show as ongoing after end
-
-- API lacks finish timestamps for all events
-- Finish data is currently hardcoded (~4 hours from start)
-- Requires backend API improvements
-
 ### Some List dropdown menus are not scaled with Dynamic Type
 
 - Custom menu implementation needed for full accessibility

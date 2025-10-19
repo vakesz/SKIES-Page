@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Known Issues
-nav_order: 4
+nav_order: 3
 description: "Current known issues for SKIES Mobile"
 permalink: /issues/
 ---

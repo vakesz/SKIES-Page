@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-nav_order: 9
+nav_order: 7
 description: "Get in touch with the SKIES Mobile team"
 permalink: /contact/
 ---

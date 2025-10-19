@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Roadmap
-nav_order: 5
+nav_order: 4
 description: "Development roadmap for SKIES Mobile"
 permalink: /roadmap/
 ---

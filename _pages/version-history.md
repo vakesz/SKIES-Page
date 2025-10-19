@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Version History
-nav_order: 6
+nav_order: 5
 description: "Version history and release notes for SKIES Mobile"
 permalink: /version-history/
 ---

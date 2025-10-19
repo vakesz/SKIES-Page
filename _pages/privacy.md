@@ -6,9 +6,11 @@ description: "How SKIES Mobile protects your privacy"
 permalink: /privacy/
 ---
 
-# Privacy Policy
+## Privacy Policy
 
 SKIES Mobile is built with **privacy by design**. We believe in transparency and your right to understand exactly how your data is handled.
+
+---
 
 ## Our Privacy Commitment
 

@@ -6,29 +6,11 @@ description: "Development roadmap for SKIES Mobile"
 permalink: /roadmap/
 ---
 
-## Upcoming Release 0.4
+## Roadmap
 
-### iCloud sync
+This document outlines the planned features and improvements for SKIES Mobile. It is subject to change based on user feedback, technical feasibility, and organizational priorities.
 
-- Sync user state (read/unread markers)
-- Sync preferences and settings
-- CloudKit integration for seamless device sync
-
-### Rich notifications
-
-- Push notifications with images
-- Action buttons in notifications
-- Requires server-side push payload support
-- Attachment handling in notifications
-
-### Improve image viewer
-
-- Add zoom functionality
-- Implement sharing from image viewer
-
-### Mark items as read/unread (needs iCloud sync first)
-
-- iCloud sync for cross-device state
+---
 
 ## Upcoming Release 0.5
 

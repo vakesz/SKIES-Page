@@ -6,9 +6,11 @@ description: "Discover the powerful features of SKIES Mobile"
 permalink: /features/
 ---
 
-# Features
+## Features
 
 SKIES Mobile offers a comprehensive set of features designed for modern team connectivity and content sharing.
+
+---
 
 ## Core Features
 

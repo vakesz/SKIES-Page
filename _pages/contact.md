@@ -6,13 +6,15 @@ description: "Get in touch with the SKIES Mobile team"
 permalink: /contact/
 ---
 
-# Contact
+## Contact
 
 I'd love to hear from you! Whether you have questions, feedback, or need support, here are the ways to reach me.
 
 - GitHub: [@vakesz](https://github.com/vakesz)
 - Twitter: [@vakeszqe](https://twitter.com/vakeszqe)
 - Email: [hello@vakesz.com](mailto:hello@vakesz.com)
+
+---
 
 ## What to Include
 

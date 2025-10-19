@@ -6,6 +6,8 @@ description: "Version history and release notes for SKIES Mobile"
 permalink: /version-history/
 ---
 
+## Version History
+
 This page tracks the major and minor releases of SKIES Mobile.
 
 ---

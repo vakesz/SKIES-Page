@@ -6,7 +6,11 @@ description: "Current known issues for SKIES Mobile"
 permalink: /issues/
 ---
 
-## Current Issues (Top Priority)
+## Known Issues
+
+This page lists the current known issues and limitations in SKIES Mobile. I am actively working to resolve these in future releases.
+
+---
 
 ### Unable to like posts, comments, or activities
 

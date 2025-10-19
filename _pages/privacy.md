@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-nav_order: 6
+nav_order: 8
 description: "How SKIES Mobile protects your privacy"
 permalink: /privacy/
 ---

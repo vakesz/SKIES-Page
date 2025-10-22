@@ -45,7 +45,9 @@ Gave Settings a full makeover with cleaner layout, better organization, and more
 
 Welcome to 0.3! This major update brings intelligent content summaries, extensive customization options, and numerous improvements to make your experience smoother and more personalized.
 
-### AI-Powered Summaries (iOS 18.2+)
+### AI-Powered Summaries (iOS 26+)
+
+AI Summaries leverage on-device Apple Intelligence to provide quick overviews of posts and activities, but requires iOS 26 or later due to Foundation Model framework dependencies.
 
 - Generate quick summaries of posts and activities with on-device Apple Intelligence
 - Long-press any post or activity and select "Generate Summary" to get an instant overview

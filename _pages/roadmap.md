@@ -12,7 +12,7 @@ This document outlines the planned features and improvements for SKIES Mobile. I
 
 ---
 
-## Upcoming Release 0.5
+## Upcoming Release Features
 
 ### In-app search functionality
 

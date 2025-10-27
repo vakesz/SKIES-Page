@@ -16,11 +16,20 @@ permalink: /
   <img src="https://img.shields.io/badge/iOS-18.0%2B-blue" />
   <img src="https://img.shields.io/badge/Swift-6.1-orange" />
   <img src="https://img.shields.io/badge/SwiftUI-5.0-green" />
-  <img src="https://img.shields.io/badge/Xcode-16.0%2B-red" />
   <img src="https://img.shields.io/badge/License-Proprietary-gray" />
 </p>
 
-A modern iOS application for team connectivity and content sharing, built with **Swift 6**, **SwiftUI** and **iOS 18** features.
+---
+
+## Download
+
+Your team connectivity hub, now on iOS
+
+[**Download on the App Store**](https://apps.apple.com/us/app/skies-mobile/id6752425823)
+
+iOS 18.0+ Required
+
+---
 
 ## About
 

@@ -83,6 +83,33 @@ This document outlines the planned features and improvements for SKIES Mobile. I
 - Voice-based navigation
 - Custom shortcuts for common actions
 
+### Customizable QR Code Profile Sharing
+
+- Add option to select which information is shared in QR code
+- Allow users to include/exclude multiple phone numbers
+- Toggle personal email visibility
+- Toggle LinkedIn profile inclusion
+- Toggle "About Me" section
+- Select any other available profile fields
+- Save sharing preferences for quick access
+- Multiple QR code profiles (work, personal, etc.)
+
+**Note:** By default includes name, business email, and business phone number only
+
+### App Icon Customization (Paywalled Feature)
+
+- Multiple app icon options
+- Theme-based icon variations
+- Seasonal/special event icons
+
+### Keyword-based Post Highlighting
+
+- Allow users to define custom keywords
+- Automatically mark posts as important based on keywords
+- Configurable keyword list in settings
+- Visual indicators for important posts
+- Filter/sort options to view important posts first
+
 ### Personal History & Analytics (needs iCloud sync first)
 
 #### Personal timeline of attended events

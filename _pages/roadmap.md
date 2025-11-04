@@ -12,6 +12,11 @@ This document outlines the planned features and improvements for SKIES Mobile. I
 
 ---
 
+{: .note }
+Version 1.0.0 is planned for release when all major bugs are fixed and Application supports multiple endpoints (custom app/tenant IDs), via Onboarding experience.
+
+---
+
 ## Upcoming Release Features
 
 ### In-app search functionality

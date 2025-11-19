@@ -68,7 +68,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 - **Demo Mode**: Offline demo mode with sample data for testing
 - **Logging System**: Comprehensive diagnostic logging
-- **Tuist Project Management**: Modern project generation and dependency management
+- **XcodeGen Project Management**: Simplified project generation from YAML configuration
 
 ## Platform Support
 

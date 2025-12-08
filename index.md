@@ -23,6 +23,10 @@ permalink: /
 
 ## Download
 
+<p align="center">
+  <img src="assets/images/qr-code.png" alt="Download QR Code" width="120" height="120" />
+</p>
+
 Your team connectivity hub, now on iOS
 
 [**Download on the App Store**](https://apps.apple.com/us/app/skies-mobile/id6752425823)

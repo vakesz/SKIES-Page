@@ -17,13 +17,20 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 
 ---
 
+## Version 0.4.x (Patch Release)
+
+- Bug fixes for notification delivery issues (if resolved before 0.5)
+
+---
+
+## Version 0.5 (In Development)
+
+- In-app search functionality with local content indexing
+- General stability improvements
+
+---
+
 ## Upcoming Release Features
-
-### In-app search functionality
-
-- Prototype local content indexing
-- Implement offline search for cached content
-- Add fallback to API-based search when online
 
 ### Enhanced offline caching
 

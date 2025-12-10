@@ -28,10 +28,10 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 - Custom menu implementation needed for full accessibility
 - Standard SwiftUI menus don't respect all Dynamic Type settings
 
-### Some languages not fully translated
+### Notifications may not be delivered reliably
 
-- Localization files should be reviewed and updated
-- Full localization check scheduled after v1.0 release
+- Push notifications may fail to arrive in some cases
+- Currently investigating delivery issues in 0.5
 
 ## How to Report Issues
 

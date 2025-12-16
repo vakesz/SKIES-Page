@@ -8,11 +8,7 @@ permalink: /
 
 # SKIES Mobile
 
-<p align="center">
-  <img src="assets/images/logo.png" alt="SKIES Logo" width="240" />
-</p>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/iOS-18.0%2B-blue" />
   <img src="https://img.shields.io/badge/Swift-6.1-orange" />
   <img src="https://img.shields.io/badge/SwiftUI-5.0-green" />
@@ -23,7 +19,7 @@ permalink: /
 
 ## Download
 
-<p align="center">
+<p align="left">
   <img src="assets/images/qr-code.png" alt="Download QR Code" width="120" height="120" />
 </p>
 
@@ -49,7 +45,7 @@ SKIES Mobile is a client-side iOS application that connects you to your organiza
 
 ## Key Highlights
 
-- **Modern Architecture**: Built with Swift 6.1.2, SwiftUI, and iOS 18 SDK
+- **Modern Architecture**: Built with Swift 6.0, SwiftUI, and iOS 18 SDK
 - **Privacy-First Design**: All data is either stored locally or accessed directly from your organization
 - **Powerful Search**: Find posts, activities, and colleagues instantly with accent-insensitive search
 - **Rich Features**: Posts, activities, notifications, AI-powered summaries, and more
@@ -61,4 +57,4 @@ SKIES Mobile is a client-side iOS application that connects you to your organiza
 - **iOS 18.0+** (minimum deployment target)
 - **iOS 26+** for AI-powered summary features (requires Apple Intelligence)
 - **Xcode 16+** for development
-- **Swift 6.1.2** with strict concurrency
+- **Swift 6.0** with strict concurrency

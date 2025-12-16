@@ -12,6 +12,34 @@ This page tracks the major and minor releases of SKIES Mobile.
 
 ---
 
+## Version 0.5
+
+This release introduces powerful search capabilities and better iOS 26 support.
+
+### New Features
+
+- Search across posts, activities, and colleagues from cached content
+- Filter search results by category (All, Posts, Activities, Users)
+- Accent-insensitive search — "kovacs" finds "Kovács"
+- iOS 26 support with Liquid Glass tab bar and floating search
+- Auto-refresh feeds when returning after 30+ minutes away
+
+### Improvements
+
+- Unified cache architecture for better performance
+- Updated data retention policies
+
+### Bug Fixes
+
+- Fixed potential crash from corrupted cache during navigation
+- Various stability improvements
+
+### Known Issues
+
+- Notification delivery remains inconsistent (ongoing investigation)
+
+---
+
 ## Version 0.4
 
 This release is a big one packed with new features, visual polish, and long-awaited improvements.
@@ -27,17 +55,38 @@ This release is a big one packed with new features, visual polish, and long-awai
 - Image Viewer - Added an enhanced image viewer to detail view and user profiles
 - Custom AI system prompt - Customize how summaries are generated (experimental)
 - Birthday Privacy - Birthday information shows only month and day for general users, with birth year visible only to appropriate personnel
+- Custom app icons
+- Language support for Hungarian, English, and Swedish
+- 'Closed' state for activities no longer accepting signups
 
 ### Redesigned Settings
 
 Gave Settings a full makeover with cleaner layout, better organization, and more intuitive controls. Make sure to check it out to explore all the new customization options.
 
-### Quality & Polish
+### Improvements
 
 - Improved image viewer (zoom + share options)
 - Smoother iCloud sync for state and preferences
-- General performance boosts and bug fixes
 - StoreKit integration groundwork
+- Encrypted cache for enhanced data security
+- Background cache operations for smoother UI responsiveness
+- Enhanced network error handling for better reliability
+- Optimized resource loading for faster app startup
+- Improved token caching with automatic refresh on 401 errors
+- Reduced memory usage during intensive operations
+- User data securely cleared upon account termination
+- Background refresh validates token before API calls
+
+### Bug Fixes
+
+- Fixed login screen appearing when already logged in
+- Fixed missing loading indicators from posts and activities
+- User profile pictures now display correctly throughout the app
+- Fixed duplicate notifications when a post is also an activity
+- Fixed events incorrectly displaying as full
+- Fixed cache clearing issues
+- Fixed race condition in notification handling
+- Fixed polling non-existent activities
 
 ---
 

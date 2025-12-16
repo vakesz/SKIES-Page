@@ -17,19 +17,6 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 
 ---
 
-## Version 0.4.x (Patch Release)
-
-- Bug fixes for notification delivery issues (if resolved before 0.5)
-
----
-
-## Version 0.5 (In Development)
-
-- In-app search functionality with local content indexing
-- General stability improvements
-
----
-
 ## Upcoming Release Features
 
 ### Enhanced offline caching
@@ -108,12 +95,6 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 
 **Note:** By default includes name, business email, and business phone number only
 
-### App Icon Customization (Paywalled Feature)
-
-- Multiple app icon options
-- Theme-based icon variations
-- Seasonal/special event icons
-
 ### Keyword-based Post Highlighting
 
 - Allow users to define custom keywords
@@ -122,7 +103,7 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 - Visual indicators for important posts
 - Filter/sort options to view important posts first
 
-### Personal History & Analytics (needs iCloud sync first)
+### Personal History & Analytics
 
 #### Personal timeline of attended events
 

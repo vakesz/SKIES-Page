@@ -42,7 +42,8 @@ SKIES Mobile is a client-side iOS application that connects you to your organiza
 ## Quick Links
 
 - [Features](features/) - Discover what SKIES Mobile can do
-- [Known Issues](issues/) - Known issues and planned features
+- [Roadmap](roadmap/) - Planned features and improvements
+- [Known Issues](issues/) - Current known issues and limitations
 - [Privacy Policy](privacy/) - How we protect your data
 - [Contact](contact/) - Get in touch with the development team
 
@@ -50,7 +51,8 @@ SKIES Mobile is a client-side iOS application that connects you to your organiza
 
 - **Modern Architecture**: Built with Swift 6.1.2, SwiftUI, and iOS 18 SDK
 - **Privacy-First Design**: All data is either stored locally or accessed directly from your organization
-- **Rich Features**: Posts, activities, comments, AI-powered summaries, and more
+- **Powerful Search**: Find posts, activities, and colleagues instantly with accent-insensitive search
+- **Rich Features**: Posts, activities, notifications, AI-powered summaries, and more
 - **Seamless Sync**: iCloud synchronization for settings, bookmarks, and reading history
 - **Universal Support**: Native iPad support with multitasking capabilities
 

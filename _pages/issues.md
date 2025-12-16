@@ -18,7 +18,7 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 - Need to inspect web client traces and Mobile API
 - Like counts are visible but interactions are disabled
 
-### Order of posts and activities do not match web
+### Order of posts do not match web
 
 - API returns items in non-chronological order with creation timestamps
 - Needs to be investigated whether this can be queryed otherwise or sorted client-side
@@ -31,7 +31,7 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 ### Notifications may not be delivered reliably
 
 - Push notifications may fail to arrive in some cases
-- Currently investigating delivery issues in 0.5
+- Known issue persisting in 0.5, actively investigating
 
 ## How to Report Issues
 

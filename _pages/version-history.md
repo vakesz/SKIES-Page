@@ -12,6 +12,39 @@ This page tracks the major and minor releases of SKIES Mobile.
 
 ---
 
+## Version 0.5.1 (In Development)
+
+Currently under development with planned improvements to user experience and stability.
+
+### New Features
+
+- Unread count badges on Posts and Activities tabs
+- Profile share URLs with web portal links
+- Attendance display: "X / Y + Z attending"
+- Waitlist button on full activities (tap to join)
+- Better toolbar button spacing
+- Settings follow iOS system by default (System/On/Off options)
+- Smaller app size (50-70% reduction in icon assets)
+- Localized deep link text (Open post/activity/profile)
+- Better theme accessibility
+
+### Improvements
+
+- Removed in-app purchase test files → Tip Jar should work properly now
+- Improved MetricKit usage
+- More stable background tasks
+
+### Bug Fixes
+
+- Participant text colors adapt to light/dark mode
+- HTML entities render correctly in posts and activities
+- Color picker selection rings don't clip
+- Login screen no longer flashes when signed out
+- Deep links switch to correct tab on iOS 26+
+- Consistent fonts across screens
+
+---
+
 ## Version 0.5
 
 This release introduces powerful search capabilities and better iOS 26 support.

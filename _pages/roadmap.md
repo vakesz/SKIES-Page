@@ -17,6 +17,23 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 
 ---
 
+## In Development (Version 0.5.1)
+
+The following features are currently being implemented:
+
+- Unread count badges on Posts and Activities tabs
+- Profile share URLs with web portal links
+- Attendance display improvements ("X / Y + Z attending")
+- Waitlist button on full activities
+- Better toolbar button spacing
+- System-default theme settings
+- Smaller app size (icon asset optimization)
+- Localized deep link text
+- Enhanced theme accessibility
+- Various bug fixes and stability improvements
+
+---
+
 ## Upcoming Release Features
 
 ### Enhanced offline caching
@@ -62,12 +79,6 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 - Requires API write endpoints
 - Permission checks and validation needed
 - Content creation and editing UI
-
-### Waitlist support for activities
-
-- Backend-dependent feature
-- Queue management for full activities
-- Notification system for waitlist status
 
 ### Smart Activity Recommendations
 

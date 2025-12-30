@@ -9,8 +9,8 @@ permalink: /
 # SKIES Mobile
 
 <p align="left">
-  <img src="https://img.shields.io/badge/iOS-18.0%2B-blue" />
-  <img src="https://img.shields.io/badge/Swift-6.1-orange" />
+  <img src="https://img.shields.io/badge/iOS-18.0-blue" />
+  <img src="https://img.shields.io/badge/Swift-6.0-orange" />
   <img src="https://img.shields.io/badge/SwiftUI-5.0-green" />
   <img src="https://img.shields.io/badge/License-Proprietary-gray" />
 </p>

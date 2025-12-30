@@ -23,15 +23,10 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 - API returns items in non-chronological order with creation timestamps
 - Needs to be investigated whether this can be queryed otherwise or sorted client-side
 
-### Some List dropdown menus are not scaled with Dynamic Type
-
-- Custom menu implementation needed for full accessibility
-- Standard SwiftUI menus don't respect all Dynamic Type settings
-
 ### Notifications may not be delivered reliably
 
 - Push notifications may fail to arrive in some cases
-- Known issue persisting in 0.5, actively investigating
+- Known issue persisting in 0.6, actively investigating
 
 ## How to Report Issues
 

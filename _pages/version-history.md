@@ -12,9 +12,12 @@ This page tracks the major and minor releases of SKIES Mobile.
 
 ---
 
-## Version 0.5.1 (In Development)
+## Version 0.6.0
 
-Currently under development with planned improvements to user experience and stability.
+This release was originally planned as 0.5.1 but bumped to 0.6.0 due to the extensive amount of fixes and new features.
+
+{: .note }
+Tip Jar only works when installing from the App Store. TestFlight builds do not support in-app purchases.
 
 ### New Features
 
@@ -22,6 +25,7 @@ Currently under development with planned improvements to user experience and sta
 - Profile share URLs with web portal links
 - Attendance display: "X / Y + Z attending"
 - Waitlist button on full activities (tap to join)
+- Customizable QR code: choose which fields to share
 - Better toolbar button spacing
 - Settings follow iOS system by default (System/On/Off options)
 - Smaller app size (50-70% reduction in icon assets)
@@ -30,18 +34,26 @@ Currently under development with planned improvements to user experience and sta
 
 ### Improvements
 
-- Removed in-app purchase test files → Tip Jar should work properly now
-- Improved MetricKit usage
-- More stable background tasks
+- Improved overall app performance and responsiveness
+- Improved accessibility support
+- Improved VoiceOver support
+- Improved offline experience
+- Removed refresh control from User profile screen
 
 ### Bug Fixes
 
+- Fixed long names not displaying correctly in some places
 - Participant text colors adapt to light/dark mode
+- Fixed activity participant caching issues
+- Fixed UI not updating after changing settings
 - HTML entities render correctly in posts and activities
 - Color picker selection rings don't clip
 - Login screen no longer flashes when signed out
 - Deep links switch to correct tab on iOS 26+
 - Consistent fonts across screens
+- Fixed application startup cancellation issues
+- Fixed birthday card layout issues
+- Fixed About Me & About My Job text field rendering issues
 
 ---
 

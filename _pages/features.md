@@ -35,15 +35,15 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Event Subscription**: Register for activities with guest count and custom questions
 - **Participant Lists**: View who's attending and their dietary restrictions
 - **Smart Scheduling**: Calendar-aware display with relative dates (Today, Tomorrow, etc.)
-- **Availability Tracking**: Real-time participant count and capacity management ("X / Y + Z attending" format coming in 0.5.1)
+- **Availability Tracking**: Real-time participant count and capacity management ("X / Y + Z attending" format)
 - **Closed State**: Clear indicator for activities no longer accepting signups
-- **Waitlist Support** *(Coming in 0.5.1)*: Join the waitlist when activities are full
+- **Waitlist Support**: Join the waitlist when activities are full
 
 ### Notifications
 
 - **Push Notifications**: Rich notifications with images and quick-action buttons
 - **Unread Badges**: See your unread count on the app icon
-- **Tab Badges** *(Coming in 0.5.1)*: Unread count badges on Posts and Activities tabs
+- **Tab Badges**: Unread count badges on Posts and Activities tabs
 - **Mark as Read**: Requires permission in Settings > General > Mark as Read
 
 ### AI-Powered Summaries (iOS 26+)
@@ -58,7 +58,8 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Rich Profiles**: View detailed user information including bio, position, and education
 - **Profile Photos**: Cached user avatars with smart refresh
 - **Birthday Celebrations**: Never miss a colleague's birthday (privacy-aware: shows month/day only)
-- **Profile Sharing** *(Coming in 0.5.1)*: Share profiles with web portal links
+- **Profile Sharing**: Share profiles with web portal links
+- **Customizable QR Code**: Choose which fields to share in your QR code
 
 ### Customization & Appearance
 

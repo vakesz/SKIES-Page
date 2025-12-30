@@ -17,30 +17,7 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 
 ---
 
-## In Development (Version 0.5.1)
-
-The following features are currently being implemented:
-
-- Unread count badges on Posts and Activities tabs
-- Profile share URLs with web portal links
-- Attendance display improvements ("X / Y + Z attending")
-- Waitlist button on full activities
-- Better toolbar button spacing
-- System-default theme settings
-- Smaller app size (icon asset optimization)
-- Localized deep link text
-- Enhanced theme accessibility
-- Various bug fixes and stability improvements
-
----
-
 ## Upcoming Release Features
-
-### Enhanced offline caching
-
-- Extend caching for ActivityDetails
-- Define and implement cache TTL policies
-- Current cache limit: 500 MB total
 
 ---
 
@@ -92,19 +69,6 @@ The following features are currently being implemented:
 - "Sign up for next yoga class"
 - Voice-based navigation
 - Custom shortcuts for common actions
-
-### Customizable QR Code Profile Sharing
-
-- Add option to select which information is shared in QR code
-- Allow users to include/exclude multiple phone numbers
-- Toggle personal email visibility
-- Toggle LinkedIn profile inclusion
-- Toggle "About Me" section
-- Select any other available profile fields
-- Save sharing preferences for quick access
-- Multiple QR code profiles (work, personal, etc.)
-
-**Note:** By default includes name, business email, and business phone number only
 
 ### Keyword-based Post Highlighting
 

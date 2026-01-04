@@ -47,7 +47,7 @@ mainSections = ["docs"]
   sectionNav = ["docs"] # ["docs"] (default) or list of sections (e.g. ["docs", "guides"])
   toTopButton = true # false (default) or true
   breadcrumbTrail = true # false (default) or true
-  headlineHash = true # true (default) or false
+  headlineHash = false # true (default) or false
   scrollSpy = true # true (default) or false
 
   # Multilingual
@@ -124,13 +124,13 @@ mainSections = ["docs"]
     suffix = ""
   [seo.favicons]
     sizes = []
-    icon = "favicon.png" # favicon.png (default)
-    svgIcon = "favicon.svg" # favicon.svg (default)
-    maskIcon = "mask-icon.svg" # mask-icon.svg (default)
+    icon = "logo.png"
+    svgIcon = ""
+    maskIcon = "" # disabled - file doesn't exist
     maskIconColor = "white" # white (default)
   [seo.schemas]
     type = "Organization" # Organization (default) or Person
-    logo = "favicon-512x512.png" # Logo of Organization — favicon-512x512.png (default)
+    logo = "logo.png" # Logo of Organization
     name = "SKIES Mobile" # Name of Organization or Person
     sameAs = ["https://github.com/vakesz/Skies-iOS", "https://twitter.com/vakeszqe"]
     images = [] # ["cover.png"] (default)

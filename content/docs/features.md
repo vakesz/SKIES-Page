@@ -1,16 +1,20 @@
 ---
-layout: default
-title: Features
-nav_order: 2
+title: "Features"
 description: "Discover the powerful features of SKIES Mobile"
-permalink: /features/
+summary: "SKIES Mobile offers a comprehensive set of features designed for modern team connectivity and content sharing."
+date: 2025-01-01T00:00:00+00:00
+lastmod: 2025-01-01T00:00:00+00:00
+draft: false
+weight: 1
+toc: true
+seo:
+  title: "SKIES Mobile Features"
+  description: "Discover the powerful features of SKIES Mobile - search, posts, activities, notifications, AI summaries, and more."
+  canonical: ""
+  noindex: false
 ---
-
-## Features
 
 SKIES Mobile offers a comprehensive set of features designed for modern team connectivity and content sharing.
-
----
 
 ## Core Features
 
@@ -111,4 +115,4 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 ## Coming Soon
 
-For planned features, visit the [Roadmap](/roadmap/) page. For known issues, see the [Known Issues](/issues/) page.
+For planned features, visit the [Roadmap](/docs/roadmap/) page. For known issues, see the [Known Issues](/docs/known-issues/) page.

@@ -1,0 +1,17 @@
+{{- $currentPage := . }}
+{{- $section := .Site.GetPage "section" .Section }}
+<nav class="section-nav docs-links">
+  <ul class="list-unstyled">
+    {{- range $section.RegularPages.ByWeight }}
+      {{- $liClass := "" }}
+      {{- $ariaCurrent := "" }}
+      {{- if $currentPage.Eq . }}
+        {{- $ariaCurrent = "page" }}
+        {{- $liClass = "active" }}
+      {{- end }}
+      <li {{- with $liClass }} class="{{ . }}" {{ end -}}>
+        <a {{- with $ariaCurrent }} aria-current="{{ . }}" {{- end }} href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{- end }}
+  </ul>
+</nav>

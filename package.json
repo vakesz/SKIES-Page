@@ -1,0 +1,28 @@
+{
+  "name": "skies-mobile-website",
+  "version": "1.0.0",
+  "description": "SKIES Mobile website",
+  "author": "vakesz",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "hugo server --disableFastRender --noHTTPCache",
+    "build": "hugo --minify --gc",
+    "preview": "vite preview --outDir public"
+  },
+  "dependencies": {
+    "@thulite/doks-core": "^1.8.3",
+    "@thulite/images": "^3.3.1",
+    "@thulite/inline-svg": "^1.2.0",
+    "@thulite/seo": "^2.4.1",
+    "@tabler/icons": "^3.34.1",
+    "thulite": "^2.6.3"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "vite": "^7.0.6"
+  },
+  "engines": {
+    "node": ">=20.11.0"
+  }
+}

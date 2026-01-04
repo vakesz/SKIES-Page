@@ -1,16 +1,20 @@
 ---
-layout: default
-title: Privacy Policy
-nav_order: 6
+title: "Privacy Policy"
 description: "How SKIES Mobile protects your privacy"
-permalink: /privacy/
+summary: "SKIES Mobile is built with privacy by design. We believe in transparency and your right to understand exactly how your data is handled."
+date: 2025-01-01T00:00:00+00:00
+lastmod: 2025-10-01T00:00:00+00:00
+draft: false
+weight: 5
+toc: true
+seo:
+  title: "SKIES Mobile Privacy Policy"
+  description: "Privacy policy for SKIES Mobile - how we protect your data and what information the app collects."
+  canonical: ""
+  noindex: false
 ---
-
-## Privacy Policy
 
 SKIES Mobile is built with **privacy by design**. We believe in transparency and your right to understand exactly how your data is handled.
-
----
 
 ## Our Privacy Commitment
 

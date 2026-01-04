@@ -1,21 +1,24 @@
 ---
-layout: default
-title: Roadmap
-nav_order: 4
+title: "Roadmap"
 description: "Development roadmap for SKIES Mobile"
-permalink: /roadmap/
+summary: "This document outlines the planned features and improvements for SKIES Mobile."
+date: 2025-01-01T00:00:00+00:00
+lastmod: 2025-01-01T00:00:00+00:00
+draft: false
+weight: 3
+toc: true
+seo:
+  title: "SKIES Mobile Roadmap"
+  description: "Development roadmap for SKIES Mobile - planned features and improvements."
+  canonical: ""
+  noindex: false
 ---
-
-## Roadmap
 
 This document outlines the planned features and improvements for SKIES Mobile. It is subject to change based on user feedback, technical feasibility, and organizational priorities.
 
----
-
-{: .note }
+{{< callout context="note" >}}
 Version 1.0.0 is planned for release when all major bugs are fixed and Application supports multiple endpoints (custom app/tenant IDs), via Onboarding experience.
-
----
+{{< /callout >}}
 
 ## Upcoming Release Features
 

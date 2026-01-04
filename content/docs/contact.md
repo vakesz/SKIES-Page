@@ -1,20 +1,24 @@
 ---
-layout: default
-title: Contact
-nav_order: 7
+title: "Contact"
 description: "Get in touch with the SKIES Mobile team"
-permalink: /contact/
+summary: "I'd love to hear from you! Whether you have questions, feedback, or need support, here are the ways to reach me."
+date: 2025-01-01T00:00:00+00:00
+lastmod: 2025-01-01T00:00:00+00:00
+draft: false
+weight: 6
+toc: true
+seo:
+  title: "Contact SKIES Mobile"
+  description: "Get in touch with the SKIES Mobile development team - bug reports, feature requests, and general support."
+  canonical: ""
+  noindex: false
 ---
-
-## Contact
 
 I'd love to hear from you! Whether you have questions, feedback, or need support, here are the ways to reach me.
 
 - GitHub: [@vakesz](https://github.com/vakesz)
 - Twitter: [@vakeszqe](https://twitter.com/vakeszqe)
 - Email: [hello@vakesz.com](mailto:hello@vakesz.com)
-
----
 
 ## What to Include
 
@@ -54,5 +58,3 @@ Your input helps me prioritize development and improve SKIES Mobile for everyone
 ## Thank You
 
 Thank you for using SKIES Mobile and for taking the time to reach out. I appreciate your support and feedback!
-
----

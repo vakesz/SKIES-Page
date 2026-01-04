@@ -1,16 +1,20 @@
 ---
-layout: default
-title: Known Issues
-nav_order: 3
+title: "Known Issues"
 description: "Current known issues for SKIES Mobile"
-permalink: /issues/
+summary: "This page lists the current known issues and limitations in SKIES Mobile."
+date: 2025-01-01T00:00:00+00:00
+lastmod: 2025-01-01T00:00:00+00:00
+draft: false
+weight: 2
+toc: true
+seo:
+  title: "SKIES Mobile Known Issues"
+  description: "Current known issues and limitations in SKIES Mobile. We are actively working to resolve these in future releases."
+  canonical: ""
+  noindex: false
 ---
-
-## Known Issues
 
 This page lists the current known issues and limitations in SKIES Mobile. I am actively working to resolve these in future releases.
-
----
 
 ### Unable to like posts, comments, or activities
 
@@ -30,6 +34,4 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 
 ## How to Report Issues
 
-If you encounter any issues or have feature requests:
-
-> Contact me at [hello@vakesz.com](mailto:hello@vakesz.com)
+If you encounter any issues or have feature requests, please visit the [Contact](/docs/contact/) page.

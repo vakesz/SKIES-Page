@@ -1,23 +1,28 @@
 ---
-layout: default
-title: Version History
-nav_order: 5
+title: "Version History"
 description: "Version history and release notes for SKIES Mobile"
-permalink: /version-history/
+summary: "This page tracks the major and minor releases of SKIES Mobile."
+date: 2025-01-01T00:00:00+00:00
+lastmod: 2025-01-01T00:00:00+00:00
+draft: false
+weight: 4
+toc: true
+seo:
+  title: "SKIES Mobile Version History"
+  description: "Version history and release notes for SKIES Mobile - changelog for all releases."
+  canonical: ""
+  noindex: false
 ---
-
-## Version History
 
 This page tracks the major and minor releases of SKIES Mobile.
-
----
 
 ## Version 0.6.0
 
 This release was originally planned as 0.5.1 but bumped to 0.6.0 due to the extensive amount of fixes and new features.
 
-{: .note }
+{{< callout context="tip" >}}
 Tip Jar only works when installing from the App Store. TestFlight builds do not support in-app purchases.
+{{< /callout >}}
 
 ### New Features
 
@@ -232,4 +237,4 @@ Initial release establishing the foundation of the application. This version bro
 
 ## Future Releases
 
-For upcoming features and planned improvements, please see the [Roadmap](/roadmap/) page.
+For upcoming features and planned improvements, please see the [Roadmap](/docs/roadmap/) page.

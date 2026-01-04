@@ -5,7 +5,6 @@
       "article",
       "aside",
       "base",
-      "blockquote",
       "body",
       "button",
       "circle",
@@ -53,6 +52,7 @@
     "classes": [
       "DocSearch-Label",
       "active",
+      "align-items-center",
       "anchor",
       "breadcrumb",
       "breadcrumb-item",

@@ -4,6 +4,11 @@
   url = "/docs/"
   weight = 10
 
+[[main]]
+  name = "Changelog"
+  url = "/changelog/"
+  weight = 20
+
 # Social links
 [[social]]
   name = "GitHub"
@@ -27,3 +32,8 @@
   name = "Contact"
   url = "/docs/contact/"
   weight = 20
+
+[[footer]]
+  name = "RSS Feed"
+  url = "/changelog/index.xml"
+  weight = 30

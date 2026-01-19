@@ -5,7 +5,7 @@ summary: "SKIES Mobile offers a comprehensive set of features designed for moder
 date: 2025-01-01T00:00:00+00:00
 lastmod: 2025-01-01T00:00:00+00:00
 draft: false
-weight: 1
+weight: 2
 toc: true
 seo:
   title: "SKIES Mobile Features"

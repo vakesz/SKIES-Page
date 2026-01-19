@@ -5,7 +5,7 @@ summary: "This page lists the current known issues and limitations in SKIES Mobi
 date: 2025-01-01T00:00:00+00:00
 lastmod: 2025-01-01T00:00:00+00:00
 draft: false
-weight: 2
+weight: 3
 toc: true
 seo:
   title: "SKIES Mobile Known Issues"
@@ -25,7 +25,7 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 ### Order of posts do not match web
 
 - API returns items in non-chronological order with creation timestamps
-- Needs to be investigated whether this can be queryed otherwise or sorted client-side
+- Needs to be investigated whether this can be queried otherwise or sorted client-side
 
 ### Notifications may not be delivered reliably
 

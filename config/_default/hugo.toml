@@ -24,6 +24,11 @@ copyRight = "© 2025-2026 SKIES Mobile"
   home = ["HTML", "RSS", "searchIndex"]
   section = ["HTML", "RSS", "SITEMAP"]
 
+# Enable RSS for changelog section
+[outputFormats.RSS]
+  mediaType = "application/rss+xml"
+  baseName = "index"
+
 [outputFormats.searchIndex]
   mediaType = "application/json"
   baseName = "search-index"

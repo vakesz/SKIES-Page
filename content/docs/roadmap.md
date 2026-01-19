@@ -5,7 +5,7 @@ summary: "This document outlines the planned features and improvements for SKIES
 date: 2025-01-01T00:00:00+00:00
 lastmod: 2025-01-01T00:00:00+00:00
 draft: false
-weight: 3
+weight: 4
 toc: true
 seo:
   title: "SKIES Mobile Roadmap"
@@ -25,6 +25,45 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 ---
 
 ## Unplanned/Not yet planned Features
+
+### Unread/All filter for feeds
+
+- Add toggle filter to Posts page (unread/all)
+- Add toggle filter to Activities page (unread/all)
+- Persist filter preference across sessions
+
+### Pinned posts support
+
+- Display pinned posts at top of feed
+- Visual indicator for pinned status
+- Investigate: auto-expiration vs manual toggle behavior
+- Handle pinned post ordering when multiple exist
+
+### Global info bar
+
+- Text-only announcement bar on website (skies.vakesz.com)
+- Display global messages (e.g., open source announcement)
+- Easy content updates without code changes
+
+### Quick Actions (3D Touch / Haptic Touch)
+
+- Long-press app icon shortcuts
+- "View upcoming activities" action
+- "Search" action
+- "View latest posts" action
+
+### Handoff support
+
+- Continue reading a post on another device
+- Leverage existing iCloud sync infrastructure
+- Support for iPhone ↔ iPad ↔ Mac transitions
+
+### Apple Watch app
+
+- View upcoming activities at a glance
+- Quick RSVP from wrist
+- Notification support on Watch
+- Complications for next event
 
 ### Onboarding experience
 

@@ -1,10 +1,15 @@
 # Dependencies
 node_modules
 
+# Bun
+bun.lock
+bun.lockb
+
 # Build output
 public
 resources
 .hugo_build.lock
+hugo_stats.json
 
 # Environment
 .env

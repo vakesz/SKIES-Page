@@ -17,14 +17,17 @@ seo:
 This document outlines the planned features and improvements for SKIES Mobile. It is subject to change based on user feedback, technical feasibility, and organizational priorities.
 
 {{< callout context="note" >}}
-Version 1.0.0 is planned for release when all major bugs are fixed and Application supports multiple endpoints (custom app/tenant IDs), via Onboarding experience.
+Version 1.0.0 is planned for release with:
+
+- Multiple authentication providers (Sign in with Apple, Microsoft, or no authentication)
+- Onboarding experience for custom tenants and public pages (configurable client ID, tenant ID, and endpoints)
+- Open source release
+- Squashing all bugs
+- Finishing all planned features
+
 {{< /callout >}}
 
-## Upcoming Release Features
-
----
-
-## Unplanned/Not yet planned Features
+## Planned Features
 
 ### Unread/All filter for feeds
 
@@ -58,22 +61,30 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 - Leverage existing iCloud sync infrastructure
 - Support for iPhone ↔ iPad ↔ Mac transitions
 
+### Keyword-based Post Highlighting
+
+- Allow users to define custom keywords
+- Automatically mark posts as important based on keywords
+- Configurable keyword list in settings
+- Visual indicators for important posts
+- Filter/sort options to view important posts first
+
+---
+
+## Unplanned/Not yet planned Features
+
+### Onboarding experience enhancements
+
+- First-time user setup flow
+- App introduction and feature highlights
+- Guided setup process
+
 ### Apple Watch app
 
 - View upcoming activities at a glance
 - Quick RSVP from wrist
 - Notification support on Watch
 - Complications for next event
-
-### Onboarding experience
-
-- First-time user setup flow
-- App introduction and feature highlights
-- Guided setup process
-- Custom app URL support via onboarding
-- Custom client ID configuration
-- Custom tenant ID support
-- Allow users to connect to different instances
 
 ### Calendar export improvements
 
@@ -104,21 +115,6 @@ Version 1.0.0 is planned for release when all major bugs are fixed and Applicati
 - ML-based suggestions based on attendance history
 - Personalized recommendations
 - Pattern recognition for preferred times/types
-
-### Siri Shortcuts Integration
-
-- "Show my upcoming activities"
-- "Sign up for next yoga class"
-- Voice-based navigation
-- Custom shortcuts for common actions
-
-### Keyword-based Post Highlighting
-
-- Allow users to define custom keywords
-- Automatically mark posts as important based on keywords
-- Configurable keyword list in settings
-- Visual indicators for important posts
-- Filter/sort options to view important posts first
 
 ### Personal History & Analytics
 

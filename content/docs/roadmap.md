@@ -29,13 +29,13 @@ Version 1.0.0 is planned for release with:
 
 ## Planned Features
 
-### Unread/All filter for feeds
+### Unread/All filter for feeds - Will be added in v0.7.0
 
 - Add toggle filter to Posts page (unread/all)
 - Add toggle filter to Activities page (unread/all)
 - Persist filter preference across sessions
 
-### Pinned posts support
+### Pinned posts support - Will be added in v0.7.0
 
 - Display pinned posts at top of feed
 - Visual indicator for pinned status
@@ -48,7 +48,7 @@ Version 1.0.0 is planned for release with:
 - Display global messages (e.g., open source announcement)
 - Easy content updates without code changes
 
-### Quick Actions (3D Touch / Haptic Touch)
+### Quick Actions (3D Touch / Haptic Touch) - Will be added in v0.7.0
 
 - Long-press app icon shortcuts
 - "View upcoming activities" action

@@ -1,8 +1,9 @@
 {{- $currentPage := . }}
 {{- $section := .Site.GetPage "section" .Section }}
+{{- $pages := cond (eq .Section "changelog") $section.RegularPages.ByDate.Reverse $section.RegularPages.ByWeight }}
 <nav class="section-nav docs-links">
   <ul class="list-unstyled">
-    {{- range $section.RegularPages.ByWeight }}
+    {{- range $pages }}
       {{- $liClass := "" }}
       {{- $ariaCurrent := "" }}
       {{- if $currentPage.Eq . }}

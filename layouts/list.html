@@ -6,7 +6,8 @@
       {{ with .Content }}<div class="text-center">{{ . }}</div>{{ end }}
 			<div class="card-list">
 				{{ $currentSection := .CurrentSection }}
-				{{ range where .Site.RegularPages.ByWeight "Section" .Section }}
+				{{ $orderedPages := cond (eq .Section "changelog") .Site.RegularPages.ByDate.Reverse .Site.RegularPages.ByWeight }}
+				{{ range where $orderedPages "Section" .Section }}
 					{{ if in (.RelPermalink | string) $currentSection.RelPermalink }}
 						<div class="card my-3">
 							<div class="card-body">

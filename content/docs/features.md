@@ -26,10 +26,17 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Floating Search**: iOS 26 Liquid Glass floating search bar integration
 - **Offline Search**: Works with cached content without internet
 
+### Home Screen Quick Actions
+
+- **Long-Press Shortcuts**: Jump directly to Posts, Activities, Search, or your QR code from the app icon
+
 ### Posts & Content Sharing
 
 - **News Feed**: Stay updated with the latest posts, news and announcements from your organization
 - **Rich Content**: Support for text, images, GIFs, and attachments
+- **Pinned Posts**: Posts marked as pinned appear in a dedicated section at the top of the feed
+- **Unread Filter**: Toggle to show only unread items with an "All Caught Up" state
+- **Mark All as Read**: Quickly mark all items as read with confirmation
 - **Bookmarks**: Save posts for later reading with iCloud sync
 - **Auto-Refresh**: Feeds automatically refresh when returning after 30+ minutes
 
@@ -42,6 +49,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Availability Tracking**: Real-time participant count and capacity management ("X / Y + Z attending" format)
 - **Closed State**: Clear indicator for activities no longer accepting signups
 - **Waitlist Support**: Join the waitlist when activities are full
+- **Unread Filter**: Toggle to show only unread activities
 
 ### Notifications
 
@@ -61,6 +69,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 - **Rich Profiles**: View detailed user information including bio, position, and education
 - **Profile Photos**: Cached user avatars with smart refresh
+- **Avatar Initials**: User avatars show initials when no photo or when a placeholder image is set
 - **Birthday Celebrations**: Never miss a colleague's birthday (privacy-aware: shows month/day only)
 - **Profile Sharing**: Share profiles with web portal links
 - **Customizable QR Code**: Choose which fields to share in your QR code

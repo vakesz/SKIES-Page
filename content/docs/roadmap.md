@@ -69,9 +69,14 @@ Version 1.0.0 is planned for release with:
 - Visual indicators for important posts
 - Filter/sort options to view important posts first
 
----
+### Microsoft Teams Integration - Direct Chat from User Profile
 
-## Unplanned/Not yet planned Features
+- Display Teams icon or "Chat with person" button on user profile
+- Icon/button opens Microsoft Teams direct chat window with that person
+- Quick one-tap access to messaging from SKIES context
+- Show Teams online status/availability indicator, maybe?
+- Deep link support to Teams chat
+- Handle users without Teams accounts gracefully
 
 ### Onboarding experience enhancements
 
@@ -79,18 +84,22 @@ Version 1.0.0 is planned for release with:
 - App introduction and feature highlights
 - Guided setup process
 
+### Calendar export improvements
+
+- Fix flaky iCal/ICS export behavior
+- Revisit EventKit implementation
+- Test edge cases (recurrence, timezone handling)
+
+---
+
+## Unplanned/Not yet planned Features
+
 ### Apple Watch app
 
 - View upcoming activities at a glance
 - Quick RSVP from wrist
 - Notification support on Watch
 - Complications for next event
-
-### Calendar export improvements
-
-- Fix flaky iCal/ICS export behavior
-- Revisit EventKit implementation
-- Test edge cases (recurrence, timezone handling)
 
 ### Safari extension
 

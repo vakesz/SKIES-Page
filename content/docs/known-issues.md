@@ -25,12 +25,7 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 ### Order of posts do not match web
 
 - API returns items in non-chronological order with creation timestamps
-- Needs to be investigated whether this can be queried otherwise or sorted client-side
-
-### Notifications may not be delivered reliably
-
-- Push notifications may fail to arrive in some cases
-- Known issue persisting in 0.6, actively investigating
+- Needs to be investigated whether th
 
 ## How to Report Issues
 

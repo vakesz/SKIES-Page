@@ -125,6 +125,12 @@ Version 1.0.0 is planned for release with:
 - Personalized recommendations
 - Pattern recognition for preferred times/types
 
+### Theme-aware Splash Screen & Color Scheme
+
+- Flying icons on the splash screen adapt to match the selected app icon theme
+- App color scheme adjusts based on the chosen app icon
+- Cohesive visual experience from launch through the entire app
+
 ### Personal History & Analytics
 
 #### Personal timeline of attended events

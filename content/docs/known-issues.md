@@ -16,7 +16,7 @@ seo:
 
 This page lists the current known issues and limitations in SKIES Mobile. I am actively working to resolve these in future releases.
 
-### Unable to like posts, comments, or activities
+### Unable to like posts, or activities
 
 - Missing or undocumented API endpoints
 - Need to inspect web client traces and Mobile API
@@ -25,7 +25,7 @@ This page lists the current known issues and limitations in SKIES Mobile. I am a
 ### Order of posts do not match web
 
 - API returns items in non-chronological order with creation timestamps
-- Needs to be investigated whether th
+- Needs to be investigated whether the API supports a different sorting method
 
 ## How to Report Issues
 

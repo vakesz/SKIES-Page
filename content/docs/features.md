@@ -37,7 +37,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Pinned Posts**: Posts marked as pinned appear in a dedicated section at the top of the feed
 - **Unread Filter**: Toggle to show only unread items with an "All Caught Up" state
 - **Mark All as Read**: Quickly mark all items as read with confirmation
-- **Bookmarks**: Save posts for later reading with iCloud sync
+- **Bookmarks**: Save posts and activities for later with iCloud sync and a combined "All" tab
 - **Auto-Refresh**: Feeds automatically refresh when returning after 30+ minutes
 
 ### Activities & Events

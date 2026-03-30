@@ -17,13 +17,16 @@ seo:
 This document outlines the planned features and improvements for SKIES Mobile. It is subject to change based on user feedback, technical feasibility, and organizational priorities.
 
 {{< callout context="note" >}}
-Version 1.0.0 is planned for release with:
+Version 1.0.0 is currently in beta testing via TestFlight with:
 
-- Multiple authentication providers (Sign in with Apple, Microsoft, or no authentication)
-- Onboarding experience for custom tenants and public pages (configurable client ID, tenant ID, and endpoints)
+- Multi-site support via SiteConfig (configurable endpoints with no-auth or MSAL authentication)
+- Microsoft Teams chat integration from user profiles
+- Major stability and platform improvements, including optimizations when running on Mac
+
+Still planned for future releases:
+
+- Sign in with Apple authentication
 - Open source release
-- Squashing all bugs
-- Finishing all planned features
 
 {{< /callout >}}
 
@@ -49,18 +52,9 @@ Version 1.0.0 is planned for release with:
 - Visual indicators for important posts
 - Filter/sort options to view important posts first
 
-### Microsoft Teams Integration - Direct Chat from User Profile
-
-- Display Teams icon or "Chat with person" button on user profile
-- Icon/button opens Microsoft Teams direct chat window with that person
-- Quick one-tap access to messaging from SKIES context
-- Show Teams online status/availability indicator, maybe?
-- Deep link support to Teams chat
-- Handle users without Teams accounts gracefully
-
 ### Onboarding experience enhancements
 
-- First-time user setup flow
+- First-time user setup flow for new users
 - App introduction and feature highlights
 - Guided setup process
 

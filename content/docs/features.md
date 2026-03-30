@@ -24,7 +24,13 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Category Filters**: Filter results by All, Posts, Activities, or Users
 - **Accent-Insensitive**: "kovacs" finds "Kovács" for easier searching
 - **Floating Search**: iOS 26 Liquid Glass floating search bar integration
+- **Profile Photos in Results**: Search results can display profile photos for people
 - **Offline Search**: Works with cached content without internet
+
+### Multi-site Support
+
+- **Site Configuration**: Connect to different organizational sites, not just one
+- **Flexible Authentication**: Supports no-auth or MSAL authentication per site
 
 ### Home Screen Quick Actions
 
@@ -38,6 +44,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Unread Filter**: Toggle to show only unread items with an "All Caught Up" state
 - **Mark All as Read**: Quickly mark all items as read with confirmation
 - **Bookmarks**: Save posts and activities for later with iCloud sync and a combined "All" tab
+- **Feed Timestamps**: See when feeds were last refreshed
 - **Auto-Refresh**: Feeds automatically refresh when returning after 30+ minutes
 
 ### Activities & Events
@@ -72,6 +79,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Avatar Initials**: User avatars show initials when no photo or when a placeholder image is set
 - **Birthday Celebrations**: Never miss a colleague's birthday (privacy-aware: shows month/day only)
 - **Profile Sharing**: Share profiles with web portal links
+- **Teams Chat**: Open a Microsoft Teams chat directly from a user's profile when your organization uses Microsoft sign-in
 - **Customizable QR Code**: Choose which fields to share in your QR code
 
 ### Customization & Appearance
@@ -83,6 +91,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **High Contrast Mode**: Enhanced visibility for accessibility
 - **Color Blind Mode**: Improved color palette for color vision deficiency
 - **Reduce Transparency**: Option for users who prefer opaque interfaces
+- **Browser Preference**: Choose whether web links open in the in-app browser or your system browser
 - **iOS 26 Support**: Liquid Glass tab bar and modern UI elements
 
 ### Privacy & Security
@@ -106,13 +115,15 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 - **Demo Mode**: Offline demo mode with sample data for testing
 - **Logging System**: Comprehensive diagnostic logging
+- **Open-Source Licenses**: View the app's dependencies and their licenses in Settings > About
 - **XcodeGen Project Management**: Simplified project generation from YAML configuration
 
 ## Platform Support
 
 - **iPhone**: iOS 18.0+ with full feature support
 - **iPad**: Universal app with multitasking and Split View
-- **macOS**: Native support via Mac Catalyst
+- **macOS**: Designed for iPhone/iPad, runs on Mac with optimized scaling for avatars, icons, buttons, and content widths
+- **Mac Keyboard Shortcuts**: Use Cmd+, to quickly open Settings on macOS
 - **Orientation**: Portrait and landscape support on iPad.
 - **Device Families**: Optimized for all screen sizes
 

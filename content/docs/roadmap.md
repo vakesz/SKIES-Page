@@ -16,19 +16,10 @@ seo:
 
 This document outlines the planned features and improvements for SKIES Mobile. It is subject to change based on user feedback, technical feasibility, and organizational priorities.
 
-{{< callout context="note" >}}
-Version 1.0.0 is currently in beta testing via TestFlight with:
-
-- Multi-site support via SiteConfig (configurable endpoints with no-auth or MSAL authentication)
-- Microsoft Teams chat integration from user profiles
-- Major stability and platform improvements, including optimizations when running on Mac
-
 Still planned for future releases:
 
 - Sign in with Apple authentication
 - Open source release
-
-{{< /callout >}}
 
 ## Planned Features
 

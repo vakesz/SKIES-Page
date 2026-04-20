@@ -3,7 +3,7 @@ title: "Known Issues"
 description: "Current known issues for SKIES Mobile"
 summary: "This page lists the current known issues and limitations in SKIES Mobile."
 date: 2025-01-01T00:00:00+00:00
-lastmod: 2025-01-01T00:00:00+00:00
+lastmod: 2026-04-20T00:00:00+00:00
 draft: false
 weight: 3
 toc: true

@@ -3,7 +3,7 @@ title: "SiteConfig Setup"
 description: "How to configure SiteConfig.json for your backend"
 summary: "SiteConfig.json controls every aspect of how SKIES Mobile connects to your backend — authentication, API paths, field mappings, and more."
 date: 2025-01-01T00:00:00+00:00
-lastmod: 2025-01-01T00:00:00+00:00
+lastmod: 2026-04-20T00:00:00+00:00
 draft: false
 weight: 5
 toc: true
@@ -14,7 +14,7 @@ seo:
   noindex: false
 ---
 
-This document explains every field in `SiteConfig.json` and how to configure it for your backend. Start by copying `SiteConfig.json.template` and filling in your environment-specific values.
+This document explains every field in `SiteConfig.json` and how to configure it for your backend. Start from `SiteConfig.json.template` when creating a local config or a runtime-import config, then fill in your environment-specific values.
 
 {{< callout context="note" >}}
 If you need a capability, auth policy option, or asset strategy that is not listed here, please open an issue or pull request at [github.com/vakesz/SKIES-iOS](https://github.com/vakesz/SKIES-iOS).

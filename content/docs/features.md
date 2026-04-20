@@ -3,7 +3,7 @@ title: "Features"
 description: "Discover the powerful features of SKIES Mobile"
 summary: "SKIES Mobile offers a comprehensive set of features designed for modern team connectivity and content sharing."
 date: 2025-01-01T00:00:00+00:00
-lastmod: 2025-01-01T00:00:00+00:00
+lastmod: 2026-04-20T00:00:00+00:00
 draft: false
 weight: 2
 toc: true
@@ -26,6 +26,11 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **Floating Search**: iOS 26 Liquid Glass floating search bar integration
 - **Profile Photos in Results**: Search results can display profile photos for people
 - **Offline Search**: Works with cached content without internet
+
+### Setup & Deployment
+
+- **Bundled Configuration**: Supported builds can ship with a ready-to-use site configuration for faster first launch
+- **Runtime Site Import**: Import a `SiteConfig.json` when you need to connect to a different environment or deployment
 
 ### Multi-site Support
 
@@ -85,7 +90,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 ### Customization & Appearance
 
 - **Theme Selection**: Light, dark, or system-based theme
-- **Custom Colors**: Choose your primary color or select from presets
+- **Preset Accent Colors**: Choose from curated accent color presets for a more consistent look
 - **Custom App Icons**: Personalize the app icon on your home screen
 - **UI Scaling**: Adjust interface scale with discrete presets (S/M/L/XL/Custom)
 - **High Contrast Mode**: Enhanced visibility for accessibility
@@ -98,6 +103,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 - **App Lock**: Secure your app with passcode or biometric authentication
 - **Microsoft Authentication**: Secure MSAL integration
+- **Ephemeral Sign-In Sessions**: Authentication uses private web sessions to reduce leftover browser state
 - **Encrypted Cache**: Local data stored with encryption
 - **Jailbreak Detection**: Enhanced security checks (35+ detection methods)
 - **Token Management**: Automatic refresh with silent authentication
@@ -108,6 +114,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **iCloud Sync**: Settings, bookmarks, and reading history sync across devices
 - **Smart Caching**: Intelligent offline caching for posts, activities, and users
 - **Cache Management**: Control cache size and expiration (500 MB total limit)
+- **Clean Reset**: Resetting app data also clears saved browser state and local configuration for a truly fresh sign-in
 - **Background Operations**: Cache operations run in background for smooth UI
 - **Offline Support**: Access cached content without internet connection
 
@@ -115,6 +122,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 
 - **Demo Mode**: Offline demo mode with sample data for testing
 - **Logging System**: Comprehensive diagnostic logging
+- **MetricKit Diagnostics**: Release builds capture crash and performance diagnostics for faster issue triage
 - **Open-Source Licenses**: View the app's dependencies and their licenses in Settings > About
 - **XcodeGen Project Management**: Simplified project generation from YAML configuration
 
@@ -123,6 +131,7 @@ SKIES Mobile offers a comprehensive set of features designed for modern team con
 - **iPhone**: iOS 18.0+ with full feature support
 - **iPad**: Universal app with multitasking and Split View
 - **macOS**: Designed for iPhone/iPad, runs on Mac with optimized scaling for avatars, icons, buttons, and content widths
+- **visionOS**: Runs on Apple Vision Pro via Designed for iPad compatibility
 - **Mac Keyboard Shortcuts**: Use Cmd+, to quickly open Settings on macOS
 - **Orientation**: Portrait and landscape support on iPad.
 - **Device Families**: Optimized for all screen sizes

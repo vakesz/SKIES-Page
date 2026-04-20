@@ -18,7 +18,7 @@ SKIES Mobile is built with **privacy by design**. We believe in transparency and
 
 ## Our Privacy Commitment
 
-SKIES Mobile is a client-side iOS application that acts as a secure bridge between you and your organization's data. We collect only essential data for core functionality and never monetize your information.
+SKIES Mobile is a client-side app for iPhone, iPad, and Mac that acts as a secure bridge between you and your organization's data. We collect only essential data for core functionality and never monetize your information.
 
 ## What the App Collects
 

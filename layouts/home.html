@@ -7,22 +7,23 @@
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
 
-      <!-- Badges -->
-      <p class="mb-4">
-        <img src="https://img.shields.io/badge/iOS-18.0%2B-blue" alt="iOS 18.0+" />
+      <div class="d-flex flex-wrap justify-content-center gap-2 mb-4">
+        <img src="https://img.shields.io/badge/platforms-iOS%20%7C%20iPadOS%20%7C%20macOS-blue" alt="Platforms: iOS, iPadOS, macOS" />
         <img src="https://img.shields.io/badge/Swift-6.0-orange" alt="Swift 6.0" />
         <img src="https://img.shields.io/badge/License-GPLv3-green" alt="GPLv3 License" />
-        <img src="https://img.shields.io/badge/Version-0.7.1-purple" alt="Version 0.7.1" />
-      </p>
+        <a class="d-inline-flex" href="/changelog/0.8.0/" aria-label="Latest release 0.8.0">
+          <img src="https://img.shields.io/badge/Latest%20Release-0.8.0-6f42c1" alt="Latest release 0.8.0" />
+        </a>
+      </div>
 
-      <!-- Download Section -->
       <div class="mb-4">
         <img src="/images/qr-code.png" alt="Download QR Code" width="200" height="200" class="mb-3" />
-        <p class="text-muted">iOS 18.0+ Required</p>
+        <p class="text-muted mb-0">iOS and iPadOS 18.0+ • Runs on Apple Silicon Mac via Designed for iPad</p>
       </div>
 
       <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="https://apps.apple.com/us/app/skies-mobile/id6752425823" role="button">Download on the App Store</a>
       <a class="btn btn-outline-primary rounded-pill btn-lg my-3 ms-2" href="/docs/" role="button">Read the Docs</a>
+      <a class="btn btn-link btn-lg my-3 ms-2 text-decoration-none" href="/changelog/0.8.0/" role="button">See What’s New in 0.8.0</a>
 
       {{ .Content }}
     </div>

@@ -9,7 +9,7 @@ weight: 4
 toc: true
 seo:
   title: "SKIES Mobile Roadmap"
-  description: "Development roadmap for SKIES Mobile - planned features and improvements."
+  description: "Development roadmap for SKIES Mobile, covering the features and improvements planned for upcoming releases of the iOS app."
   canonical: ""
   noindex: false
 ---

@@ -9,7 +9,7 @@ weight: 5
 toc: true
 seo:
   title: "SKIES Mobile Privacy Policy"
-  description: "Privacy policy for SKIES Mobile - how we protect your data and what information the app collects."
+  description: "Privacy policy for SKIES Mobile, explaining how the app protects your data, what information it collects, and how it is built with privacy by design."
   canonical: ""
   noindex: false
 ---

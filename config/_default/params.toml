@@ -119,6 +119,13 @@ mainSections = ["docs"]
 
 # SEO (@thulite/seo)
 [seo]
+  [seo.description]
+    summaryFallback = true # fall back to the page summary when no description is set
+    siteParamsFallback = true # fall back to the site description as a last resort
+    [seo.description.length]
+      errorLevel = "warning" # ignore, warning, or error
+      min = 110
+      max = 160
   [seo.title]
     separator = " | "
     suffix = ""

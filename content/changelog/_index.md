@@ -8,7 +8,7 @@ draft: false
 weight: 100
 seo:
   title: "SKIES Mobile Changelog"
-  description: "Release notes and version history for SKIES Mobile - track all releases and updates."
+  description: "Release notes and version history for SKIES Mobile, tracking every new feature, improvement, and bug fix across all releases of the iOS app."
   canonical: ""
   noindex: false
 ---

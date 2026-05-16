@@ -9,7 +9,7 @@ weight: 6
 toc: true
 seo:
   title: "Contact SKIES Mobile"
-  description: "Get in touch with the SKIES Mobile development team - bug reports, feature requests, and general support."
+  description: "Get in touch with the SKIES Mobile development team for bug reports, feature requests, feedback, and general questions about the app."
   canonical: ""
   noindex: false
 ---

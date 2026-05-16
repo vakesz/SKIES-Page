@@ -11,6 +11,9 @@ importers:
       '@tabler/icons':
         specifier: ^3.34.1
         version: 3.36.1
+      '@thulite/core':
+        specifier: ^1.5.5
+        version: 1.5.5
       '@thulite/doks-core':
         specifier: ^1.8.3
         version: 1.8.3

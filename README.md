@@ -11,8 +11,8 @@ This repository contains the source code for the SKIES Mobile website, built wit
 ## Local Development
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 ## Deployment

@@ -1,17 +1,11 @@
 {{- $currentPage := . }}
-{{- $section := .Site.GetPage "section" .Section }}
-{{- $pages := cond (eq .Section "changelog") $section.RegularPages.ByDate.Reverse $section.RegularPages.ByWeight }}
+{{- $pages := partial "section-pages.html" . }}
 <nav class="section-nav docs-links">
   <ul class="list-unstyled">
     {{- range $pages }}
-      {{- $liClass := "" }}
-      {{- $ariaCurrent := "" }}
-      {{- if $currentPage.Eq . }}
-        {{- $ariaCurrent = "page" }}
-        {{- $liClass = "active" }}
-      {{- end }}
-      <li {{- with $liClass }} class="{{ . }}" {{ end -}}>
-        <a {{- with $ariaCurrent }} aria-current="{{ . }}" {{- end }} href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{- $active := $currentPage.Eq . }}
+      <li {{ if $active }} class="active"{{ end }}>
+        <a {{ if $active }} aria-current="page"{{ end }} href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
     {{- end }}
   </ul>

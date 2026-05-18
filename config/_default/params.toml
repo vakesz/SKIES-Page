@@ -2,6 +2,7 @@
 title = "SKIES Mobile"
 description = "A modern iOS application for team connectivity and content sharing"
 images = []
+appVersion = "0.8.0" # current release; surfaced on the homepage
 
 # mainSections
 mainSections = ["docs"]

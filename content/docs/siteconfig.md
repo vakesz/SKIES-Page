@@ -5,7 +5,7 @@ summary: "SiteConfig.json controls every aspect of how SKIES Mobile connects to 
 date: 2025-01-01T00:00:00+00:00
 lastmod: 2026-04-20T00:00:00+00:00
 draft: false
-weight: 5
+weight: 6
 toc: true
 seo:
   title: "SKIES Mobile SiteConfig Setup Guide"

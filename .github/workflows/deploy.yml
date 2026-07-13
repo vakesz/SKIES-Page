@@ -29,6 +29,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # full history so GitInfo can report each page's real last-modified date
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
